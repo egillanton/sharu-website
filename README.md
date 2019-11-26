@@ -95,3 +95,10 @@ $ git add .
 $ git commit -am "make it better"
 $ git push heroku master
 ```
+
+## License
+This project is licensed under the Apache License, Version 2.0 - see the [LICENSE](LICENSE) file for details.
+
+<p align="center">
+🌟 PLEASE STAR THIS REPO IF YOU FOUND SOMETHING INTERESTING 🌟
+</p>
