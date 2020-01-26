@@ -1,11 +1,13 @@
 <h1 align="center">
-flask-bootstrap4-heroku-skeleton
+Website - Student Hackathon Association at Reykjavik University
 </h1>
 
-## Contains
-* Bootstrap 4 CDN
-* Procfile for Heroku
-* python-dotenv for setting up local variables
+<img src="https://user-images.githubusercontent.com/9976294/73139773-6cd71480-4069-11ea-8f1e-ae266dafd720.png" alt="Screenshot" align="center"/>
+
+<h2 align="center">
+<a href="https://sharu-2020.herokuapp.com/">www.nhvhr.ru.is</a>
+</h2>
+
 
 ## Setup
 
