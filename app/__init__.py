@@ -11,7 +11,12 @@ def create_app(test_config=None):
     # ======== Routing ============================= #
     # -------- Home -------------------------------- #
     @app.route('/', methods=['GET'])
-    def index():
-        return render_template('layouts/index.html')
+    @app.route('/isl', methods=['GET'])
+    def index_isl():
+        return render_template('layouts/index_isl.html')
+    
+    @app.route('/eng', methods=['GET'])
+    def index_eng():
+        return render_template('layouts/index_eng.html')
 
     return app
